@@ -38,6 +38,10 @@
   align-items: center;
   padding-left: 150px;
   font-size: 30px;
+  
+}
+h1{
+  font-weight: lighter;
 }
 .footer{
   margin-top: 20px;
